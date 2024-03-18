@@ -1,2 +1,0 @@
-- [UML діаграма](https://github.com/Ostroh-Academy/02-create-simple-class-Artem-Pylhun/blob/main/UML.png)
-- [Клас](https://github.com/Ostroh-Academy/02-create-simple-class-Artem-Pylhun/blob/main/Program.cs)
